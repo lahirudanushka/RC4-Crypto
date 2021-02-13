@@ -1,5 +1,5 @@
 {
-  "name": "rc4-crypto",
+  "name": "rc4-cipher",
   "version": "1.0.0",
   "description": "RC4 algorithm based encryption and decryption package",
   "main": "src/index.js",
