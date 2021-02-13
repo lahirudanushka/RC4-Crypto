@@ -1,0 +1,28 @@
+{
+  "name": "rc4",
+  "version": "1.0.0",
+  "description": "RC4 encryption and decryption package",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "hashing",
+    "rc4",
+    "encrypt",
+    "decrypt",
+    "encryption algorithm",
+    "cipher",
+    "crypto"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lahirudanushka/RC4-Crypto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lahirudanushka/RC4-Crypto/issues"
+  },
+  "homepage": "https://github.com/lahirudanushka/RC4-Crypto/blob/main/README.md",
+  "author": "Lahiru Danushka",
+  "license": "MIT"
+}
