@@ -3,7 +3,7 @@
 
 
 
-[![Build Status](https://github.com/lahirudanushka/RC4-Crypto)](https://github.com/lahirudanushka/sweet-password)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lahirudanushka/RC4-Crypto)
 
 In cryptography, RC4 is a stream cipher. While it is remarkable for its simplicity and speed in software, multiple vulnerabilities have been discovered in RC4, rendering it insecure. It is especially vulnerable when the beginning of the output keystream is not discarded, or when nonrandom or related keys are used.
 
