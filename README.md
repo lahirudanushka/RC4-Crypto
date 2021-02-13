@@ -1,5 +1,5 @@
 
-# RC4 Crypto Encryption and Decryption
+# RC4-Crypto Encryption and Decryption
 
 
 
@@ -15,7 +15,7 @@ In cryptography, RC4 is a stream cipher. While it is remarkable for its simplici
 
 ### Installation
 
-RC4 requires [Node.js](https://nodejs.org/) v4+ to run.
+RC4-Crypto requires [Node.js](https://nodejs.org/) v4+ to run.
 
 Install the package.
 
@@ -27,11 +27,11 @@ $ npm install rc4
 Usage example...
 
 ```sh
-const rc4 = require('rc4');
+const rc4 = require('rc4-crypto');
 const encryptedString = rc4.encrypt('Password','key');
 const decryptedString = rc4.decrypt(encryptedString, 'key');
 
-//key - private key
+//key - custom private key - default - rc4@123 
 ```
 
 

@@ -1,7 +1,7 @@
 {
-  "name": "rc4",
+  "name": "rc4-crypto",
   "version": "1.0.0",
-  "description": "RC4 encryption and decryption package",
+  "description": "RC4 algorithm based encryption and decryption package",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
